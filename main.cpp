@@ -16,11 +16,20 @@ int main() {
             cout << c << std::endl;
             a=b;
             b=c;
+
+
         }
+
+
+
 
     }
     else
         cout << "errore" << endl;
-    return 0;
-}
 
+
+
+
+
+    return 0;
+}
