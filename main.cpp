@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-    int n,a=1,b=1,c=1;
+    int n,a=1,b=1,c;
 
     cin>>n;
 
@@ -21,5 +21,6 @@ int main() {
     }
     else
         cout << "errore" << endl;
-}
 return 0;
+}
+
